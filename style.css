@@ -1,0 +1,27 @@
+.menu{
+    height: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.cards{
+    box-shadow: 10px;
+}
+
+.container{
+    margin-left: 33%;
+}
+
+.card{
+    margin-top: 10px;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
+
+.card-text{
+    color: brown;
+}
